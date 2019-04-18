@@ -6,6 +6,10 @@ Sendo assim poderemos utilizar este pacote em outros pacotes/projetos
 O arquivo compilado (.a) referente a este arquivo (.go) é gerado na pasta pkg do diretório /home/diegohfelix/go
 */
 
+/*
+Para Instalar um pacote que esteja no GitHub, executar no Terminal o comando go get -u github.com/diegohfelix/goarea (depois do -u é o diretório do pacote no GitHub)
+*/
+
 import "math"
 
 // Pi é uma proporção numérica definida pela relação entre o perímetro de uma circunferência e seu diâmetro
